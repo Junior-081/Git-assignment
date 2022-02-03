@@ -4,4 +4,4 @@ Country : DRC
 
 Background : Master in Computer Security
 
-Interst : Reading
+Interst : ML and Computer Security
