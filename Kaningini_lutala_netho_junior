@@ -1,0 +1,17 @@
+  187  git init
+  188  git status
+  189  git commit -m 'my commit for my identity'
+  190  git push
+  191   git push --set-upstream origin master
+  192  git push
+  193   git push --set-upstream origin master
+  194  ls
+  195  nano Identity.txt
+  196   git status
+  197  git add .
+  198  git status
+  199  git commit -m'my commit for my identity'
+  200  git remote add plamedie git@github.com:Junior-081/Git-assignment.git
+  201  git push -u plamedie master
+  202  clear
+  203  history
