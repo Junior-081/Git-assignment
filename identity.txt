@@ -2,6 +2,6 @@ Names : Kaningini Lutala Netho Junior
 
 Country : DEMOCRATIC REPUBLIC OF CONGO
 
-Backgrounds : Computer Security
+Backgrounds : Computer Security and Mathematic
 
 Interest : AI-ML-IoT-Blockchain-Cloud Computing
