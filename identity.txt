@@ -1,7 +1,7 @@
-Name : KANINGINI LUTALA Netho Junior
+Names : Kaningini Lutala Netho Junior
 
-Country : DRC
+Country : DEMOCRATIC REPUBLIC OF CONGO
 
-Background : Master in Computer Security
+Backgrounds : Computer Security
 
-Interst : ML and Computer Security and IoT
+Interest : AI-ML-IoT-Blockchain-Cloud Computing
